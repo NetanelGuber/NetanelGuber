@@ -6,6 +6,7 @@ I am very enthusiatic on learning how to do computer programming.
 
 I love languages that are multipurpose and efficient like C++!
 
+
 - 🌱 I’m currently learning C++
 - ⚡ Fun fact: All of my knowledge is primarily self taught
 - 📫 You can reach me on netanel.guber@gmail.com
