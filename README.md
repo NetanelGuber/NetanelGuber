@@ -1,5 +1,8 @@
 # Hi there 👋
 
+- 🌱 I’m currently learning C++
+- ⚡ Fun fact: All of my knowledge is primarily self taught
+- 📫 How to reach me: netanel.guber@gmail.com
 <!--
 **NetanelGuber/NetanelGuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
