@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Netanel, I am currently in my 2nd year of high school.\n
+My name is Netanel, I am currently in my 2nd year of high school.
+
 I am very enthusiatic on learning how to do computer programming.
 
 I love languages that are multipurpose and efficient like C++!
