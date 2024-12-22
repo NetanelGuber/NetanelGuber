@@ -1,8 +1,13 @@
-# Hi there 👋
+### Hi there 👋
+
+My name is Netanel, I am currently in my 2nd year of high school.
+I am very enthusiatic on learning how to do computer programming.
+
+I love languages that are multipurpose and efficient like C++!
 
 - 🌱 I’m currently learning C++
 - ⚡ Fun fact: All of my knowledge is primarily self taught
-- 📫 How to reach me: netanel.guber@gmail.com
+- 📫 You can reach me on netanel.guber@gmail.com
 <!--
 **NetanelGuber/NetanelGuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
