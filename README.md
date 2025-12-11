@@ -1,9 +1,5 @@
 <h2 align="left">Hi 👋! My name is Netanel and I'm a highschool student, from Canada</h2>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/NetanelGuber/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
